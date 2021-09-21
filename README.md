@@ -5,14 +5,14 @@ Cassava is an important food security crop in Africa because it can withstand ha
 
 ---
 ## 📊Label Distribution
-<img src="./data/distribution.png" width="350" alt="running" style="zoom:50%;" />
+<img src="./data/distribution.png" width="600" alt="running" style="zoom:50%;" />
 
 Dataset will be upload soon.
 
 
 ---
-## 📊Performance
-<img src="./data/performance.png" width="350" alt="running" style="zoom:50%;" />
+## 📈Performance
+<img src="./data/performance.png" width="650" alt="running" style="zoom:50%;" />
 
 ---
 
